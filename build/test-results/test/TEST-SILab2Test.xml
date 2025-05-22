@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SILab2Test" tests="9" skipped="0" failures="0" errors="0" timestamp="2025-05-22T09:53:27" hostname="DESKTOP-N1FJ6DT" time="0.058">
+  <properties/>
+  <testcase name="testOnlyPriceOver300()" classname="SILab2Test" time="0.032"/>
+  <testcase name="testOnlyDiscountAbove0()" classname="SILab2Test" time="0.002"/>
+  <testcase name="test_penaltyForHighPrice()" classname="SILab2Test" time="0.001"/>
+  <testcase name="test_invalidCardCharacter()" classname="SILab2Test" time="0.003"/>
+  <testcase name="test_itemWithDiscount()" classname="SILab2Test" time="0.001"/>
+  <testcase name="testOnlyQuantityAbove10()" classname="SILab2Test" time="0.001"/>
+  <testcase name="test_itemNoDiscountValidCard()" classname="SILab2Test" time="0.001"/>
+  <testcase name="testAllConditionsFalse()" classname="SILab2Test" time="0.001"/>
+  <testcase name="test_nullItemList_throwsException()" classname="SILab2Test" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
